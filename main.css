@@ -1,0 +1,322 @@
+body	{
+	background-image: url("artboard 1.png");
+  	background-repeat: repeat;
+}
+
+h2, h3, h4	{
+			font-family: arial;
+			color: #2F4F4F;
+			text-align: center;
+		}
+
+p	{
+  	font-family: arial;
+	font-size: 15px;
+	text-align: left;
+}
+
+p.conduct	{
+  	font-family: times;
+	font-size: 16px;
+	text-align: left;
+}
+
+.nav {
+  	text-align: center;
+	font-family: arial;
+	color: #FFFFF0;
+}
+
+ul {
+  	list-style-type: none;
+  	margin: 0px;
+  	padding: 5px;
+	background-color: #2F4F4F;
+}
+
+a 	{
+	color: FFFFF0;
+}
+
+
+li	{
+  display: inline-block
+}
+
+li	 a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li 	a:hover {
+  	color: #00FF7F;
+}
+Fieldset {
+	width: 45rem;
+	/*border:1px solid #dcdcdc;*/
+	border-top-width: 0px;
+		border-right-width: 0px;
+		border-bottom-width: 0px;
+		border-left-width: 0px;
+	border-radius: 10px;
+	padding: 20px;
+	text-align:left;
+	font-family: arial;
+	font-size: 1.8rem;
+	margin:0px auto 0px auto;}
+
+Fieldset label {
+	font-family: arial;
+	font-size: 1rem;
+	margin: 20px auto 20px auto;
+	position: static;
+}
+
+Fieldset input {
+	margin: auto auto 12px auto;
+	}
+
+#contactSubmit	{
+		background-color: AliceBlue;
+		text-shadow: 0px 1px 1px #ffffff;
+		border-bottom: 2px solid #b2b2b2;
+		border-right: 2px solid #b2b2b2;
+		width:6rem;
+		height:30px;
+		border-radius:5px;
+		float:right;
+		}
+.ourDetails		{
+		width: 45rem;
+		margin: 2rem auto 1rem auto;
+		border-radius: 10px;
+		padding: 10px;
+		text-align:left;
+		font-family: arial;
+		font-size: 1.3rem;
+		}
+
+textarea#contQuery	{
+		width:30rem;
+		height:127px;
+		border-radius:5px;
+		float:right;
+		margin: 1rem 0 0 1rem;
+		}
+Textarea		{
+		color: #696969;
+		font-size: 1rem;
+		font-family: arial;
+}
+
+.ourDetails p		{
+		font-family: arial;
+		font-size: 1.4rem;
+		text-align: left;
+		margin: 3px 15px 20px 20px;
+		}
+.ourDetails legend	{
+		font-family: arial;
+		font-size: 1.3rem;
+		text-align: left;
+		margin: 0px 5px 20px 5px;
+		}
+.ourDetails img		{
+		margin: 0px 30px 20px 30px;
+		}
+table			{
+			width: 45rem;
+			text-align: center;
+			border:1px solid #dcdcdc;
+			}
+.signup1		{
+			
+			width: 45rem;
+			margin: 0rem auto 0rem auto;
+			border-radius: 10px;
+			padding: 0px;
+			font-family: arial;
+			font-size: 1.3rem;
+			}
+.signup1	thead	{	
+			
+			background-color: 2F4F4F;
+			color: white;
+			}
+th, td	{	
+			
+			padding: 7px 10px 10px 10px;
+			margin: 0rem auto 0rem auto;
+			}
+.even	{	
+			
+			background-color: #F5FFFA;
+			}
+
+
+h3{
+	text-decoration:underline;
+}
+
+.wrapper		{
+			width: 50rem;
+			padding: 10px 20px 10px 20px;  
+			text-align: left;
+			margin:330px auto;
+			background-color: #D3D3D3;
+			}
+.conduct-points		{font-family: times;
+			font-size: 16px;
+			text-align: left;
+			padding: 10px 20px 10px 20px;
+	
+}
+#adhere{
+	text-decoration: underline;
+}
+.fig{
+	margin: 5px 5px 5px 5px;
+	background-color: #F8F8FF;
+	padding: 5px 5px 2px 5px;
+	float: left;
+	font-family: arial;
+	font-size: 12px;
+	color: #2F4F4F;
+	text-align: left;
+}
+.cell{
+	margin: 20px 15 20px 15;
+	width:230px;
+	height:150px;			
+  	float: left;
+	
+}
+
+
+.cell4{
+	margin: 20px 15 20px 15;
+	width:230px;
+	height:150px;
+	display: inline-block;
+	clear: left;
+	
+}
+.header{
+	position: fixed;
+	top: 0px;
+	left:0px;
+	width: 100%;
+	z-index: 1;
+
+}
+.footer > p{
+	color: dark-grey;
+	margin: 20px auto 20px auto;
+	border-style: solid;
+	border-width: 0.5px 0px 0px 0px;
+	padding: 10px 0px 0px 0px;
+	font-size: 10px;
+	text-align: center;
+}
+}
+.fig:hover {
+		color: MediumSeaGreen;
+}
+
+em{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	margin-top: 5px;
+}
+
+
+h2 a{
+	text-decoration: none;
+	color: #2F4F4F;
+}
+
+h2 a:hover {
+	color: #F5FFFA;
+}
+label{
+	margin: 0px 32px 0px 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 80%;
+	position: relative;
+	right: 80px;
+}
+
+.formControls{
+			margin: 22px auto;
+			width: 345px;
+			}	
+			
+#form input,select {
+	float: right;
+	border: 1px;
+	border-color: #696969;
+	border-radius: 4px;
+	position: relative;
+	left: 80px;
+}
+#banner{
+	display: block;
+}
+#form{
+	margin: auto;
+}
+.team{
+	width: 50rem;
+}
+.team::after{
+	content: "";
+	clear: both;
+	display: table;
+
+}
+section{
+	width: 15.4rem;
+	background-color: #b2b2b2;
+	padding: 5px;
+	margin: 5px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+section img{
+	margin-right: 5px;
+}
+section p{
+	font-size: 14px;
+	text-align: justify;
+	margin: 2px 0px 5px 0px;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+.center{
+	float: left;
+}
+h4{
+	text-align: left;
+	margin: 3px;
+	font-size: 14px;
+	display: inline;
+}
+input#submit2{
+	float: none;
+	position: static;
+	
+}
+
+.formControls.sula{
+	text-align: center;
+	
+}
